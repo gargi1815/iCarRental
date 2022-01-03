@@ -1,0 +1,5 @@
+How to setup project
+create a database
+import the table from backup/icarental.sql backup file
+goto config/constant.php
+Update the database config and base url and base path etc.
